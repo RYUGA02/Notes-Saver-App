@@ -7,7 +7,7 @@ This app allows users to create, edit, view, search, copy, share, and delete not
 
 ## 🚀 Live Demo
 
-👉 https://YOUR-VERCEL-LINK.vercel.app
+👉 (https://notes-saver-app.vercel.app/)]
 
 ---
 
