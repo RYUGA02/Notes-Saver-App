@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Reset */
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #111;
+  color: #e5e7eb;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+/* Reusable icon button */
+.icon-btn {
+  @apply w-10 h-10 flex items-center justify-center
+         rounded-full
+         bg-zinc-800
+         text-white
+         hover:bg-zinc-700
+         hover:scale-105
+         transition duration-200;
+}
